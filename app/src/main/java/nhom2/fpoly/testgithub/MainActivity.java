@@ -13,4 +13,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
 //    Chuc nang moi vua thay doi
+//    Chuc nang duoc thay doi o tuannda3
 }
